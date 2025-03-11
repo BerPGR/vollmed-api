@@ -1,0 +1,1 @@
+ALTER TABLE medicos CHANGE COLUMN ud uf VARCHAR(2);
